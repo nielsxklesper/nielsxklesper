@@ -1,8 +1,5 @@
 ### Hey there, let me briefly introduce myself 👋🏼
 
-<!--
-**nielsxklesper/nielsxklesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Niels a recent MSc Data Science graduate from Tilburg University looking for his first job within the world of data. Over recent years I have gained expertise in data wrangling, data visualization, data analysis, and machine learning.
 
 🛠️ Tech Stack:
@@ -11,4 +8,3 @@ I'm Niels a recent MSc Data Science graduate from Tilburg University looking for
 📊 R Libraries: dplyr, tidyr, ggplot2, caret, mice
 💾 Database: MySQL, Azure SQL, Microsoft SQL
 📈 Visualization: Tableau, Power BI
--->
