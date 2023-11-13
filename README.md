@@ -8,3 +8,6 @@ I'm Niels a recent MSc Data Science graduate from Tilburg University looking for
 - 📊 R Libraries: dplyr, tidyr, ggplot2, caret, mice <br/>
 - 💾 Database: MySQL, Azure SQL, Microsoft SQL <br/>
 - 📈 Visualization: Tableau, Power BI <br/>
+
+📚 **Portfolio Projects:** <br/>
+- Please find my projects pinned down below ↓
