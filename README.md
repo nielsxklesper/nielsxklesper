@@ -1,4 +1,4 @@
-### Hello there! Allow me to introduce myself briefly 👋🏼
+### Hello there! Allow me to introduce myself 👋🏼
 
 I'm Niels, a recent MSc Data Science graduate from Tilburg University, eagerly seeking my first opportunity within the realm of data. Throughout my academic journey, I've developed skills in data wrangling, visualization, analysis, and machine learning.
 
